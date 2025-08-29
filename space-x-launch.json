@@ -1,0 +1,66 @@
+[
+    {
+        "id": "launch_001",
+        "name": "Starlink 4-19",
+        "date_utc": "2022-05-13T20:00:00Z",
+        "success": true,
+        "rocket_name": "Falcon 9",
+        "launchpad_name": "Kennedy Space Center LC-39A",
+        "launchpad_location": {
+            "latitude": 28.608389,
+            "longitude": -80.604333
+        },
+        "details": "Lanzamiento exitoso de satélites Starlink.",
+        "images": [
+            "https://everydayastronaut.com/wp-content/uploads/2022/06/52133920651_c5de9345fa_o-1024x683.jpg"
+        ]
+    },
+    {
+        "id": "launch_002",
+        "name": "Transporter-4",
+        "date_utc": "2022-04-01T16:24:00Z",
+        "success": true,
+        "rocket_name": "Falcon 9",
+        "launchpad_name": "Cape Canaveral SLC-40",
+        "launchpad_location": {
+            "latitude": 28.5621,
+            "longitude": -80.5773
+        },
+        "details": "Misión dedicada a rideshare con múltiples pequeños satélites.",
+        "images": [
+            "https://everydayastronaut.com/wp-content/uploads/2024/02/GGaxL5IbUAAyx61-800x520.jpeg"
+        ]
+    },
+    {
+        "id": "launch_003",
+        "name": "CRS-23",
+        "date_utc": "2021-08-29T07:14:00Z",
+        "success": true,
+        "rocket_name": "Falcon 9",
+        "launchpad_name": "Kennedy Space Center LC-39A",
+        "launchpad_location": {
+            "latitude": 28.6273,
+            "longitude": -80.6208
+        },
+        "details": "Misión de reabastecimiento a la Estación Espacial Internacional.",
+        "images": [
+            "https://everydayastronaut.com/wp-content/uploads/2023/06/ksc-20221126-ph-kmo05_0029large-800x532.jpg"
+        ]
+    },
+    {
+        "id": "launch_004",
+        "name": "Amos-6",
+        "date_utc": "2016-09-01T13:07:00Z",
+        "success": false,
+        "rocket_name": "Falcon 9",
+        "launchpad_name": "Cape Canaveral SLC-40",
+        "launchpad_location": {
+            "latitude": 28.5618571,
+            "longitude": -80.577366
+        },
+        "details": "La misión falló debido a una explosión durante la prueba estática.",
+        "images": [
+            "https://everydayastronaut.com/wp-content/uploads/2022/05/52072697952_c9ef047de4_o-1-800x533.jpg"
+        ]
+    }
+]
